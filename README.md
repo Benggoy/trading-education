@@ -160,7 +160,7 @@ position_size = calc.calculate_position_size(
 
 ### Interactive Exercises
 - **Chart Reading Practice:** Pattern recognition exercises
-- **Risk Calculation Drills:** Position sizing and risk scenarios
+- **Risk Calculation Drills:** Position sizing and risk scenarios, including [planned risk and an opening gap](lessons/risk-management/planned-risk-and-opening-gaps.md)
 - **Strategy Simulations:** Virtual trading environments
 - **Market Analysis Challenges:** Real-world analysis problems
 
